@@ -24,16 +24,16 @@ I am building a comprehensive SIEM solution using Azure Sentinel. My goal is to 
 ## <b><i>Virtual Machine, Log Analytics Workspace, and Sentinel Creation</i></b>
 ![Baxter_VM_SC](https://github.com/Baxter-stack/SIEM/assets/173977594/4d1e0946-5034-4416-8485-5239ec6d2642)
 ![Baxer_LAW_AZ](https://github.com/Baxter-stack/SIEM/assets/173977594/86acce30-69f8-4d67-a1cf-9a677124389c)
-![AZ Sentinel](https://github.com/Baxter-stack/Baxter/assets/173977594/29215914-782b-4a43-b7d1-eda9bbbaf69e)
+![AZ Sentinel](https://github.com/Baxter-stack/SIEM_SETUP/assets/173977594/cf6dbb96-f46f-4468-9c2a-7512bbb87016)
 
 ## <b><i>Firewall turned off to make VM discoverable by TAs</i></b>
-![image](https://github.com/Baxter-stack/Baxter/assets/173977594/c13d8ac4-7ace-4b77-8bcb-1310512f298a)
+![image](https://github.com/Baxter-stack/SIEM_SETUP/assets/173977594/430bd2e6-e23f-4e49-861e-0661c67dabc6)
 
 ## <b><i>Set an API key on VM for GEO and executed PS script</i></b>
-![PS Script for API](https://github.com/Baxter-stack/Baxter/assets/173977594/1dafb425-285a-42bb-9d92-ccb5abe6ce11)
+![PS Script for API](https://github.com/Baxter-stack/SIEM_SETUP/assets/173977594/8e2dc42f-7771-441d-bde1-27c83c849267)
 
 ## <b><i>Custom Logs extracted from VM into Azure Log Analytics Workspace</i></b>
-![image](https://github.com/Baxter-stack/Baxter/assets/173977594/80f70ab6-10d8-47f2-9f03-8c970f657775)
+![image](https://github.com/Baxter-stack/SIEM_SETUP/assets/173977594/eaaa5c64-320f-4406-8fcb-182df08a979f)
 
 ## <b><i>Query & Map Images of Failed RDP attempts</i></b>
 ![image](https://github.com/Baxter-stack/SIEM/assets/173977594/f61e6d31-3729-4c94-b6bc-dfa9ed07fcbe)

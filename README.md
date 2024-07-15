@@ -22,9 +22,9 @@ I am building a comprehensive SIEM solution using Azure Sentinel. My goal is to 
 # Steps 
 
 ## <b><i>Virtual Machine, Log Analytics Workspace, and Sentinel Creation</i></b>
-![Baxter_VM_SC](https://github.com/Baxter-stack/SIEM/assets/173977594/4d1e0946-5034-4416-8485-5239ec6d2642)
-![Baxer_LAW_AZ](https://github.com/Baxter-stack/SIEM/assets/173977594/86acce30-69f8-4d67-a1cf-9a677124389c)
-![AZ Sentinel](https://github.com/Baxter-stack/SIEM_SETUP/assets/173977594/cf6dbb96-f46f-4468-9c2a-7512bbb87016)
+![image](https://github.com/user-attachments/assets/43ca95d8-9a63-4e02-a5f2-f3f56915a4db)
+![image](https://github.com/user-attachments/assets/bc17a58f-247e-496e-9013-5430c4665eb8)
+![image](https://github.com/user-attachments/assets/745e3b36-6fbc-400e-95a8-4e9f68a535ad)
 
 ## <b><i>Firewall turned off to make VM discoverable by TAs</i></b>
 ![image](https://github.com/Baxter-stack/SIEM_SETUP/assets/173977594/430bd2e6-e23f-4e49-861e-0661c67dabc6)
@@ -36,4 +36,4 @@ I am building a comprehensive SIEM solution using Azure Sentinel. My goal is to 
 ![image](https://github.com/Baxter-stack/SIEM_SETUP/assets/173977594/eaaa5c64-320f-4406-8fcb-182df08a979f)
 
 ## <b><i>Query & Map Images of Failed RDP attempts</i></b>
-![image](https://github.com/Baxter-stack/SIEM/assets/173977594/f61e6d31-3729-4c94-b6bc-dfa9ed07fcbe)
+![image](https://github.com/user-attachments/assets/cd4e896e-696f-47cb-bd02-967a77165af9)
